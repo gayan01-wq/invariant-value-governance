@@ -31,6 +31,6 @@ SAFE EXECUTION ON THE ASSET LEDGER
 The logical parameters and core engines of this architecture have been successfully operationalized and field-tested in live revenue operations at a luxury five-star resort property in Oman.
 
 ## 📑 Citations & Academic Indexing
-*   **Preprint Repositories:** Registered and hosted on [ResearchGate](https://www.researchgate.net/publication/381533230_Invariant_Value_Governance_in_High_Velocity_Machine-to-Machine_Markets) & [SSRN (Social Science Research Network)](https://www.ssrn.com).
+*   **Preprint Repositories:** Registered and hosted on [Research Gate](https://www.researchgate.net/publication/408144443_Invariant_Value_Governance_in_High_Velocity_Machine-to-Machine_Markets) & [SSRN (Social Science Research Network)](https://www.ssrn.com).
 *   **Permanent DOI:** [10.13140/RG.2.2.32119.79527](https://doi.org/10.13140/RG.2.2.32119.79527).
 *   **License:** CC BY 4.0 Open Access.
