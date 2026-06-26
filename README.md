@@ -20,7 +20,7 @@ YEP  ──► (Net Margin Floor Verification: GOPPAR)
 ACR  ──► (Surgical Isolation & Failure Recovery)
 │
 ▼
-[ SAFE EXECUTION ON THE ASSET LEDGER ]
+SAFE EXECUTION ON THE ASSET LEDGER 
 
 ### 🧱 Protocol Components
 *   **AKIF (Autonomous Knowledge Ingestion Framework):** Operates at the network edge as an epistemic filter. It evaluates signal integrity, filters out phantom demand noise, and assigns Provenance Trust Scores to incoming queries.
